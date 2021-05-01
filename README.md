@@ -7,7 +7,7 @@ You can use it on heroku
 ---Note You need an account First.
 -----Register an account first go to this link -: https://ai-pizza-store.herokuapp.com/rest-auth/registration
 -----Then login account go to this link -: https://ai-pizza-store.herokuapp.com/rest-auth/login
------Enjoy apis, link :- 
+-----Enjoy apis, link :- https://ai-pizza-store.herokuapp.com/api/pizza-store
 
 
 Or you can use it on your local server.
